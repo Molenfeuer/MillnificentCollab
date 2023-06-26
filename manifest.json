@@ -1,0 +1,18 @@
+{
+  "Name": "Mill-nificent Collab",
+  "Author": "KatyDTK & Nordmole",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Nordmole.MillnificentCollab",
+  "UpdateKeys": [ "Nexus:16931" ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "6.9.1"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Nordmole.Millnificent",
+      "IsRequired": true
+    }
+  ]
+}
