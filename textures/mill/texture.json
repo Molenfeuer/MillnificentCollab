@@ -1,0 +1,22 @@
+{
+  "ItemName": "Nordmole.Millnificent.Mill",
+  "Type": "Building",
+  "TextureWidth": 448,
+  "TextureHeight": 709,
+  "ManualVariations": [
+    {
+      "Id": -1,
+      "ChanceWeight": 0.90
+    },
+    {
+      "Id": 0,
+      "Name": "Sweet (by Nordmole)",
+      "ChanceWeight": 0.10
+    },
+    {
+      "Id": 1,
+      "Name": "Haley (by KatyDTK)",
+      "ChanceWeight": 0.10
+    }
+  ]
+}
