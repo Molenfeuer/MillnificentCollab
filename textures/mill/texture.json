@@ -12,6 +12,11 @@
       "Id": 0,
       "Name": "Shy Kitty",
       "ChanceWeight": 0.10
+    },
+    {
+      "Id": 1,
+      "Name": "Sleepy Kitty",
+      "ChanceWeight": 0.10
     }
   ]
 }
