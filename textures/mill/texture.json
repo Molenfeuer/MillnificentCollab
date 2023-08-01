@@ -25,6 +25,12 @@
       "Name": "Pink Princess",
       "ChanceWeight": 0.10,
       "Keywords": [ "gold", "big sail", "wood" ]
+    },
+    {
+      "Id": 3,
+      "Name": "Kupfi",
+      "ChanceWeight": 0,
+      "Keywords": [ "copper", "no sail" ]
     }
   ]
 }
