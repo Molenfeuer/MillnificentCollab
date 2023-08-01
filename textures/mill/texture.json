@@ -1,0 +1,36 @@
+{
+  "ItemName": "Nordmole.Millnificent.Mill",
+  "Type": "Building",
+  "TextureWidth": 448,
+  "TextureHeight": 709,
+  "ManualVariations": [
+    {
+      "Id": -1,
+      "ChanceWeight": 0.90
+    },
+    {
+      "Id": 0,
+      "Name": "Shy Kitty",
+      "ChanceWeight": 0.10,
+      "Keywords": [ "cat", "small sail", "wood", "KatyDTK" ]
+    },
+    {
+      "Id": 1,
+      "Name": "Sleepy Kitty",
+      "ChanceWeight": 0.10,
+      "Keywords": [ "cat", "small sail", "wood", "KatyDTK" ]
+    },
+    {
+      "Id": 2,
+      "Name": "Pink Princess",
+      "ChanceWeight": 0.10,
+      "Keywords": [ "gold", "big sail", "wood", "Nordmole" ]
+    },
+    {
+      "Id": 3,
+      "Name": "Kupfi",
+      "ChanceWeight": 0,
+      "Keywords": [ "copper", "no sail", "Nordmole" ]
+    }
+  ]
+}
