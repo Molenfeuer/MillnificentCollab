@@ -12,25 +12,25 @@
       "Id": 0,
       "Name": "Shy Kitty",
       "ChanceWeight": 0.10,
-      "Keywords": [ "cat", "small sail", "wood" ]
+      "Keywords": [ "cat", "small sail", "wood", "KatyDTK" ]
     },
     {
       "Id": 1,
       "Name": "Sleepy Kitty",
       "ChanceWeight": 0.10,
-      "Keywords": [ "cat", "small sail", "wood" ]
+      "Keywords": [ "cat", "small sail", "wood", "KatyDTK" ]
     },
     {
       "Id": 2,
       "Name": "Pink Princess",
       "ChanceWeight": 0.10,
-      "Keywords": [ "gold", "big sail", "wood" ]
+      "Keywords": [ "gold", "big sail", "wood", "Nordmole" ]
     },
     {
       "Id": 3,
       "Name": "Kupfi",
       "ChanceWeight": 0,
-      "Keywords": [ "copper", "no sail" ]
+      "Keywords": [ "copper", "no sail", "Nordmole" ]
     }
   ]
 }
