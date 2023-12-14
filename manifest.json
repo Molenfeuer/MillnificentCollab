@@ -1,9 +1,9 @@
 {
   "Name": "Mill-nificent Collab",
-  "Author": "KatyDTK & Nordmole",
+  "Author": "KatyDTK & Molenfeuer",
   "Version": "1.0.0",
   "Description": "Adds some new styles for Millnificent",
-  "UniqueID": "Nordmole.MillnificentCollab",
+  "UniqueID": "Molenfeuer.MillnificentCollab",
   "UpdateKeys": [ "Nexus:16931" ],
   "ContentPackFor": {
     "UniqueID": "PeacefulEnd.AlternativeTextures",
@@ -11,7 +11,7 @@
   },
   "Dependencies": [
     {
-      "UniqueID": "Nordmole.Millnificent",
+      "UniqueID": "Molenfeuer.Millnificent",
       "IsRequired": true
     }
   ]
